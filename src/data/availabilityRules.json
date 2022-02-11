@@ -1,0 +1,53 @@
+[
+    {
+        "frequency": "weekly",
+        "weekdays": [
+            "sun",
+            "sat"
+        ],
+        "intervals": [
+            {
+                "start": "18:00",
+                "end": "19:00"
+            },
+            {
+                "end": "2:00",
+                "start": "1:00"
+            }
+        ],
+        "uuid": "014e3b7c-3494-4039-a3b2-d7e3ec398ac3"
+    },
+    {
+        "frequency": "once",
+        "day": "2022-02-11",
+        "intervals": [
+            {
+                "start": "10:40",
+                "end": "10:50"
+            },
+            {
+                "end": "12:00",
+                "start": "11:00"
+            },
+            {
+                "end": "10:30",
+                "start": "9:30"
+            },
+            {
+                "end": "2:00",
+                "start": "1:00"
+            }
+        ],
+        "uuid": "8d08ec36-15f0-42ca-81c1-f793121858f4"
+    },
+    {
+        "frequency": "daily",
+        "intervals": [
+            {
+                "end": "2:00",
+                "start": "1:00"
+            }
+        ],
+        "uuid": "e26b83c0-001d-42f8-ad0e-f6100b22c3c0"
+    }
+]
